@@ -61,11 +61,32 @@ def upload():
                          'Tomato_Late_blight', 'Tomato_Leaf_Mold', 'Tomato_Septoria_leaf_spot',
                          'Tomato_Spider_mites_Two_spotted_spider_mite', 'Tomato__Target_Spot',
                          'Tomato__Tomato_YellowLeaf__Curl_Virus', 'Tomato__Tomato_mosaic_virus', 'Tomato_healthy']
+        class_map = {
+                          "Potato_Earlyblight": {
+                                                "symptoms":"Potato_Earlyblight_symptom",
+                                                "management": "Potato_Earlyblight_mng",
+                                                "video": "https://www.youtube.com/watch?v=PSXXoGrOyDg"
+                        },
+                          "Pepperbell_Bacterial_spot": {
+                                                "symptoms":"Pepperbell_Bacterial_spot_symptoms",
+                                                "management": "Pepperbell_Bacterial_spot_mng",
+                                                "video" : "https://www.youtube.com/watch?v=1HgsMF4gd7U"
+                          }
+                        }
+
         a = preds[0]
         ind=np.argmax(a)
         print('Prediction:', disease_class[ind])
         result=disease_class[ind]
-        return ({"disease":result,"suggestions":"blaa"})
+        res = {
+            "disease": result.replace("_", " "),
+            "symptoms": class_map[result]["symptoms"],
+            "management": class_map[result]["management"],
+            "video": class_map[result]["video"],
+        }
+        return ({
+                "errCode": 0,
+                "res_data": res})
     return None
 
 
