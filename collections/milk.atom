@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://groca.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://groca.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://groca.myshopify.com/collections/milk.atom"/>
+  <title>Groca</title>
+  <updated>2020-03-13T03:44:25-04:00</updated>
+  <author>
+    <name>Groca</name>
+  </author>
+  <entry>
+    <id>https://groca.myshopify.com/products/4510400675903</id>
+    <published>2020-03-13T03:44:25-04:00</published>
+    <updated>2020-03-13T03:44:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/fish-curry"/>
+    <title>Fish Curry</title>
+    <s:type>Fresh Meat</s:type>
+    <s:vendor>Anatomicals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-13.png?v=1584085502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anatomicals<br>
+        <strong>Type: </strong>Fresh Meat<br>
+        <strong>Price: </strong>
+            459.00 - 489.00
+            <a href="https://groca.myshopify.com/products/fish-curry">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Est ante in nibh mauris cursus. Sollicitudin aliquam ultrices sagittis orci. Adipiscing elit duis tristique sollicitudin. Varius sit amet mattis vulputate enim nulla aliquet. Quis lectus nulla at volutpat diam ut. Morbi enim nunc faucibus a pellentesque. </span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>Anatomicals</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fresh Meat</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4510400675903</id>
+      <title>1 kg / Brown</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4510400675903</id>
+      <title>2 kg / Green</title>
+      <s:price currency="USD">459.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4510400675903</id>
+      <title>5 kg / Gold</title>
+      <s:price currency="USD">479.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/4508687433791</id>
+    <published>2020-03-11T03:51:01-04:00</published>
+    <updated>2020-03-11T03:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/badam"/>
+    <title>Badam</title>
+    <s:type>Fruits</s:type>
+    <s:vendor>Fresho</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-6.png?v=1583913059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresho<br>
+        <strong>Type: </strong>Fruits<br>
+        <strong>Price: </strong>
+            300.00 - 390.00
+            <a href="https://groca.myshopify.com/products/badam">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Pellentesque adipiscing commodo elit at imperdiet dui accumsan sit amet. Massa id neque aliquam</span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>4 kg</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fresho</s:tag>
+    <s:tag>Fruits</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508687433791</id>
+      <title>4 kg / Brown</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508687433791</id>
+      <title>5 kg / Green</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508687433791</id>
+      <title>1 kg / Red</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/4508686975039</id>
+    <published>2020-03-11T03:51:00-04:00</published>
+    <updated>2020-03-11T03:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/chicken-brest"/>
+    <title>Chicken Brest</title>
+    <s:type>Fresh Meat</s:type>
+    <s:vendor>Groca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-5.png?v=1583913008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Groca<br>
+        <strong>Type: </strong>Fresh Meat<br>
+        <strong>Price: </strong>
+            500.00 - 520.00
+            <a href="https://groca.myshopify.com/products/chicken-brest">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Lobortis feugiat vivamus at augue eget arcu dictum. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque. Morbi non arcu risus quis. Quisque id diam vel quam elementum pulvinar etiam non quam. Sed lectus vestibulum mattis ullamcorper. Elementum tempus egestas sed sed risus pretium quam. </span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>2 kg</s:tag>
+    <s:tag>Fresh Meat</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Groca</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508686975039</id>
+      <title>2 kg / Green</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508686975039</id>
+      <title>3 kg / Red</title>
+      <s:price currency="USD">510.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508686975039</id>
+      <title>4 kg / Brown</title>
+      <s:price currency="USD">520.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/4508686942271</id>
+    <published>2020-03-11T03:51:00-04:00</published>
+    <updated>2020-03-11T03:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/egg"/>
+    <title>Egg</title>
+    <s:type>Snackes</s:type>
+    <s:vendor>Groca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-4.png?v=1583912981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Groca<br>
+        <strong>Type: </strong>Snackes<br>
+        <strong>Price: </strong>
+            200.00 - 240.00
+            <a href="https://groca.myshopify.com/products/egg">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Tincidunt augue interdum velit euismod in pellentesque. Arcu vitae elementum curabitur vitae. Pellentesque dignissim enim sit amet venenatis. Nulla posuere sollicitudin aliquam ultrices sagittis. Amet venenatis urna cursus eget nunc scelerisque viverra mauris in. Aliquet bibendum enim facilisis gravida. </span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>3 kg</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Groca</s:tag>
+    <s:tag>Snackes</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508686942271</id>
+      <title>3 kg / Brown</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508686942271</id>
+      <title>5 kg / Blue</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508686942271</id>
+      <title>2 kg / Red</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/4508686385215</id>
+    <published>2020-03-11T03:44:08-04:00</published>
+    <updated>2020-03-11T03:44:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/coriander"/>
+    <title>Coriander</title>
+    <s:type>Dry Fruit</s:type>
+    <s:vendor>Groca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-3.png?v=1583912789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Groca<br>
+        <strong>Type: </strong>Dry Fruit<br>
+        <strong>Price: </strong>
+            400.00 - 450.00
+            <a href="https://groca.myshopify.com/products/coriander">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Vitae auctor eu augue ut lectus arcu bibendum at varius. Cras fermentum odio eu feugiat pretium nibh ipsum consequat. Commodo nulla facilisi nullam vehicula ipsum a arcu. Id diam vel quam elementum pulvinar etiam.Interdum varius sit amet mattis. Quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor.</span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>4 kg</s:tag>
+    <s:tag>Dry Fruit</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Groca</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508686385215</id>
+      <title>4 kg / Gold</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508686385215</id>
+      <title>5 kg / Red</title>
+      <s:price currency="USD">430.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508686385215</id>
+      <title>3 kg / Green</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/4508685893695</id>
+    <published>2020-03-11T03:44:07-04:00</published>
+    <updated>2020-03-11T03:44:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/capsicum"/>
+    <title>Capsicum</title>
+    <s:type>Fruits</s:type>
+    <s:vendor>Groca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-2.png?v=1612872733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Groca<br>
+        <strong>Type: </strong>Fruits<br>
+        <strong>Price: </strong>
+            400.00 - 420.00
+            <a href="https://groca.myshopify.com/products/capsicum">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">In eu mi bibendum neque egestas congue quisque egestas. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan. A diam maecenas sed enim. Nulla pellentesque dignissim enim sit amet venenatis urna cursus eget. Amet nisl purus in mollis nunc sed id.</span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>5 kg</s:tag>
+    <s:tag>Fruits</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Groca</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508685893695</id>
+      <title>5 kg / Gold</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508685893695</id>
+      <title>3 kg / Red</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508685893695</id>
+      <title>1 kg / Green</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/4508685697087</id>
+    <published>2020-03-11T03:44:06-04:00</published>
+    <updated>2020-03-11T03:44:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/watermelon"/>
+    <title>Watermelon</title>
+    <s:type>Fruits</s:type>
+    <s:vendor>Groca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-1.png?v=1583912659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Groca<br>
+        <strong>Type: </strong>Fruits<br>
+        <strong>Price: </strong>
+            100.00 - 103.00
+            <a href="https://groca.myshopify.com/products/watermelon">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Nisl nunc mi ipsum faucibus vitae aliquet. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Vulputate ut pharetra sit amet aliquam id diam. Egestas tellus rutrum tellus pellentesque. Rutrum quisque non tellus orci ac auctor augue mauris. Sed faucibus turpis in eu mi bibendum neque egestas congue. </span><br data-mce-fragment="1"><strong data-mce-fragment="1"></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Lorem ipsum dolor sit amet</strong><br data-mce-fragment="1"><span data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Busey ipsum dolor sit amet</strong><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Vestibulum sit amet ipsum</strong></p>
+<p data-mce-fragment="1">Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p>
+<div class="SnapLinksContainer" style="margin-left: 0px; margin-top: 0px; display: none;">
+<div class="SL_SelectionRect">
+<div class="SL_SelectionLabel"></div>
+</div>
+<svg class="SnapLinksHighlighter" xmlns="http://www.w3.org/2000/svg"> <rect width="0" height="0"></rect> <!-- Used for easily cloning the properly namespaced rect --> </svg>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>3 kg</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Fruits</s:tag>
+    <s:tag>Groca</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508685697087</id>
+      <title>3 kg / Blue</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508685697087</id>
+      <title>2 kg / Green</title>
+      <s:price currency="USD">102.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/4508685697087</id>
+      <title>1 kg / Red</title>
+      <s:price currency="USD">103.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/1984209420351</id>
+    <published>2019-08-27T00:51:11-04:00</published>
+    <updated>2019-08-27T00:51:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/tm-rice"/>
+    <title>TM Rice</title>
+    <s:type>Groceries</s:type>
+    <s:vendor>Fresho</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-8.png?v=1583926829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresho<br>
+        <strong>Type: </strong>Groceries<br>
+        <strong>Price: </strong>
+            523.00 - 699.00
+            <a href="https://groca.myshopify.com/products/tm-rice">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Tellus in hac habitasse platea dictumst. Eu feugiat pretium nibh ipsum. Dignissim suspendisse in est ante in nibh mauris cursus mattis. Ipsum faucibus vitae aliquet nec ullamcorper sit amet risus. At auctor urna nunc id cursus metus aliquam eleifend.</span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>3 kg</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Fresho</s:tag>
+    <s:tag>Groceries</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984209420351</id>
+      <title>3 kg / Blue</title>
+      <s:price currency="USD">523.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984209420351</id>
+      <title>2 kg / Brown</title>
+      <s:price currency="USD">658.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984209420351</id>
+      <title>1 kg / Gold</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/1984209354815</id>
+    <published>2019-08-27T00:51:02-04:00</published>
+    <updated>2019-08-27T00:51:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/nuts-cookies"/>
+    <title>Nuts Cookies</title>
+    <s:type>Cookies</s:type>
+    <s:vendor>Stas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-7.png?v=1583926580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stas<br>
+        <strong>Type: </strong>Cookies<br>
+        <strong>Price: </strong>
+            319.00 - 392.00
+            <a href="https://groca.myshopify.com/products/nuts-cookies">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Dictum fusce ut placerat orci nulla pellentesque. Proin libero nunc consequat interdum varius. Augue interdum velit euismod in pellentesque. Dolor magna eget est lorem. In ante metus dictum at tempor commodo. Sed augue lacus viverra vitae congue eu consequat ac. Proin sagittis nisl rhoncus mattis.</span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>2 kg</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Stas</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984209354815</id>
+      <title>2 kg / Gold</title>
+      <s:price currency="USD">379.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984209354815</id>
+      <title>3 kg / Brown</title>
+      <s:price currency="USD">392.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984209354815</id>
+      <title>1 kg / Blue</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/1984208699455</id>
+    <published>2019-08-27T00:50:34-04:00</published>
+    <updated>2019-08-27T00:50:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/fresh-meat"/>
+    <title>Fresh Meat</title>
+    <s:type>Fresh Meat</s:type>
+    <s:vendor>Anatomicals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-11.png?v=1584084624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anatomicals<br>
+        <strong>Type: </strong>Fresh Meat<br>
+        <strong>Price: </strong>
+            549.00 - 589.00
+            <a href="https://groca.myshopify.com/products/fresh-meat">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Sem fringilla ut morbi tincidunt augue interdum velit euismod. Suscipit tellus mauris a diam maecenas sed enim. Netus et malesuada fames ac turpis egestas integer eget. Erat imperdiet sed euismod nisi porta lorem. Nulla malesuada pellentesque elit eget. Faucibus vitae aliquet nec ullamcorper sit amet.</span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>Anatomicals</s:tag>
+    <s:tag>Fresh Meat</s:tag>
+    <s:tag>Green</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984208699455</id>
+      <title>1 kg / Green</title>
+      <s:price currency="USD">589.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984208699455</id>
+      <title>3 kg / Brown</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984208699455</id>
+      <title>5 kg / Gold</title>
+      <s:price currency="USD">569.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/1984208601151</id>
+    <published>2019-08-27T00:50:24-04:00</published>
+    <updated>2019-08-27T00:50:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/flower-mushroom"/>
+    <title>Flower Mushroom</title>
+    <s:type>vegetables</s:type>
+    <s:vendor>Koka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-9.png?v=1583927695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koka<br>
+        <strong>Type: </strong>vegetables<br>
+        <strong>Price: </strong>
+            129.00 - 188.00
+            <a href="https://groca.myshopify.com/products/flower-mushroom">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Augue interdum velit euismod in. Nec dui nunc mattis enim ut tellus. Hendrerit gravida rutrum quisque non tellus. Elementum integer enim neque volutpat ac. Vitae tempus quam pellentesque nec. Lectus quam id leo in vitae turpis massa sed elementum. A arcu cursus vitae congue mauris rhoncus aenean vel. </span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>2 kg</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Koka</s:tag>
+    <s:tag>vegetables</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984208601151</id>
+      <title>2 kg / Brown</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984208601151</id>
+      <title>3 kg / Green</title>
+      <s:price currency="USD">176.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984208601151</id>
+      <title>1 kg / Blue</title>
+      <s:price currency="USD">188.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://groca.myshopify.com/products/1984208011327</id>
+    <published>2019-08-27T00:49:52-04:00</published>
+    <updated>2019-08-27T00:49:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://groca.myshopify.com/products/potato"/>
+    <title>Potato</title>
+    <s:type>Vegetable</s:type>
+    <s:vendor>Fresho</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/7370/0415/products/Shop-10_13a4d25e-54fe-4372-8c8e-6bf83c55a4f7.png?v=1584084182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresho<br>
+        <strong>Type: </strong>Vegetable<br>
+        <strong>Price: </strong>
+            329.00 - 389.00
+            <a href="https://groca.myshopify.com/products/potato">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Phasellus faucibus scelerisque eleifend donec pretium vulputate. At auctor urna nunc id cursus. Netus et malesuada fames ac turpis egestas integer eget. Consequat nisl vel pretium lectus quam id leo in. Sed lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt. Ut etiam sit amet nisl purus in mollis nunc sed.</span><br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fresho</s:tag>
+    <s:tag>Vegetable</s:tag>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984208011327</id>
+      <title>1 kg / Brown</title>
+      <s:price currency="USD">389.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984208011327</id>
+      <title>2 kg / Green</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://groca.myshopify.com/products/1984208011327</id>
+      <title>3 kg / Red</title>
+      <s:price currency="USD">389.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
