@@ -1,6 +1,6 @@
 class_map = {
   "Potato___Early_blight": {
-                        "symptoms":"The first symptoms of early blight appear as small, circular or irregular, dark-brown to black spots on the older (lower) leaves (Figure 1). These spots enlarge up to 3/8 inch in diameter and gradually may become angular-shaped. Figure 1. Early blight lesions initially appear as small, circular to irregular dark-brown spots on older...",
+                        "symptoms":"The first symptoms of early blight appear as small, circular or irregular, dark-brown to black spots on the older leaves. These spots enlarge up to 3/8 inch in diameter and gradually may become angular-shaped. Early blight lesions initially appear as small, circular to irregular dark-brown spots on older...",
                         "management": "Early blight can be minimized by maintaining optimum growing conditions, including proper fertilization, irrigation, and management of other pests. ",
                         "video" : "https://www.youtube.com/watch?v=HY9t0pMry9Q"
                         },
@@ -15,7 +15,7 @@ class_map = {
                         "video" : "https://www.youtube.com/watch?v=1HgsMF4gd7U"
                         },
     "Potato___Late_blight":{
-                            "symptoms":"Late blight of potato is identified by blackish/brown lesions on leaves and stems (Figures 3,4) that may be small at first and appear water-soaked or have chlorotic borders but expand rapidly and the entire leaf becomes become necrotic.",
+                            "symptoms":"Late blight of potato is identified by blackish/brown lesions on leaves and stems that may be small at first and appear water-soaked or have chlorotic borders but expand rapidly and the entire leaf becomes become necrotic.",
                             "management": "Water in the early morning hours, or use soaker hoses, to give plants time to dry out during the day — avoid overhead irrigation.",
                             "video" : "https://www.youtube.com/watch?v=xvvHUHpfQbw"
                             },

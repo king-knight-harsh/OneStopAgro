@@ -17,6 +17,8 @@ $(document).ready(function () {
         $('#btn-predict').show();
         $('#result').text('');
         $('#result').hide();
+        // $('#symptoms').text('');
+        // $('#symptoms').hide();
         readURL(this);
     });
     // Predict
@@ -39,8 +41,11 @@ $(document).ready(function () {
             success: function (data) {
                 // Get and display the result
                 $('.loader').hide();
-                $('#result').fadeIn(600);
-                $('#result').text(' Result:  ' + data);
+                console.log(data)
+                // $('#result').fadeIn(600);
+                $('#result').text('Detected :' + data.res_data.disease);
+                // $('#symptoms').fadeIn(600);
+                // $('#symptoms').text(' Symptoms:  ' + data.res_data.symptoms);
                 console.log('Success!');
             },
         });
