@@ -70,8 +70,8 @@ class_map = {
                             "video" : "https://www.youtube.com/watch?v=_w5GwfbVytE"
                             },
     "Tomato_healthy":{
-                            "symptoms":"symp2",
-                            "management": "mang2",
+                            "symptoms":"Looks like your crop is already healthy.",
+                            "management": "You don't need to worry about anything at the moment.",
                             "video" : "https://www.youtube.com/watch?v=1HgsMF4gd7U"
                             }
 }
