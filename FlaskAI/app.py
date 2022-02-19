@@ -5,6 +5,7 @@ from tensorflow import keras
 from skimage import io
 from tensorflow.keras.preprocessing import image
 import jsonify
+from clasf_map import *
 
 # Flask utils
 from flask import Flask, redirect, url_for, request, render_template
@@ -61,32 +62,25 @@ def upload():
                          'Tomato_Late_blight', 'Tomato_Leaf_Mold', 'Tomato_Septoria_leaf_spot',
                          'Tomato_Spider_mites_Two_spotted_spider_mite', 'Tomato__Target_Spot',
                          'Tomato__Tomato_YellowLeaf__Curl_Virus', 'Tomato__Tomato_mosaic_virus', 'Tomato_healthy']
-        class_map = {
-                          "Potato___Early_blight": {
-                                                "symptoms":"Potato_Earlyblight_symptom",
-                                                "management": "Potato_Earlyblight_mng",
-                                                "video": "https://www.youtube.com/watch?v=PSXXoGrOyDg"
-                        },
-                          "Pepper__bell___Bacterial_spot": {
-                                                "symptoms":"Pepperbell_Bacterial_spot_symptoms",
-                                                "management": "Pepperbell_Bacterial_spot_mng",
-                                                "video" : "https://www.youtube.com/watch?v=1HgsMF4gd7U"
-                          }
-                        }
 
         a = preds[0]
         ind=np.argmax(a)
         print('Prediction:', disease_class[ind])
         result=disease_class[ind]
-        res = {
-            "disease": " ".join(result.replace("_", " ").split()),
-            "symptoms": class_map[result]["symptoms"],
-            "management": class_map[result]["management"],
-            "video": class_map[result]["video"],
-        }
-        return ({
+        try:
+            res = {
+                    "disease": " ".join(result.replace("_", " ").split()),
+                    "symptoms": class_map[result]["symptoms"],
+                    "management": class_map[result]["management"],
+                    "video": class_map[result]["video"],
+                }
+            return ({
                 "errCode": 0,
                 "res_data": res})
+        except Exception as e:
+            return ({
+                "errCode": 90,
+                "res_data": str(e)})
     return None
 
 
