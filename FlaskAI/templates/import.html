@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Plant Disease Diagnosis</title>
+    <link rel="icon" type="image/svg" href="static/images/leaf.svg">
     <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
     <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
     <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
@@ -19,10 +20,12 @@
 
         </div>
     </nav> -->
-    <div class="col-4 text-center">
-        <a class="blog-header-logo text-dark" href="#">Plant Disease Diagnosis</a>
-      </div>
-      <hr>
+    <nav class="navbar navbar-light bg-light ">
+      <a class="navbar-brand " href="#">
+        <img src="static/images/scan.svg" width="30" height="30" class="d-inline-block align-top " alt="">
+        Plant Disease Diagnosis
+      </a>
+    </nav>
 
     <!-- <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
         <div class="col-md-6 px-0">
@@ -37,7 +40,7 @@
 
 </body>
 
-<footer class="foot bg-light text-center text-white">
+<footer class="fixed-bottom bg-light mt-5">
         
         <!-- Copyright -->
         <div class="text-center p-3 font-weight-bold" style="background-color: rgba(0, 0, 0, 0.2); color: black; ">
