@@ -1,7 +1,58 @@
 {% extends "import.html" %} 
 {% block content %}
 
-<center>
+<main class="container">
+<div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
+    <div class="col-md-6 px-0">
+        <h1 class="display-4 fst-italic">Plant Disease Diagnosis</h1>
+            <form id="upload-file" method="post" enctype="multipart/form-data">
+                <input type="file" name="file" class="btn btn-info" id="imageUpload" accept=".png, .jpg, .jpeg">
+        </form>
+        <!-- <p class="lead my-3">Multiple lines of text that form the lede, informing new readers quickly and efficiently about what’s most interesting in this post’s contents.</p>
+        <p class="lead mb-0"><a href="#" class="text-white fw-bold">Continue reading...</a></p> -->
+    </div>
+        <div class="image-section" style="display:none;">
+            <img id="imagePreview"  class="img-responsive" src="#" style="width:300px;height:300px;"/><br><br>
+            <div>
+                <button type="button" class="btn btn-info btn-lg " id="btn-predict">Predict!</button>
+            </div>
+    </div>
+</div>
+
+<h3 id="disease" style="text-align: center;"> </h3>
+
+<div class="row mb-2" class="loader">
+    <div class="col-md-6" id="symptoms">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-primary">Symptoms</strong>
+          <p class="card-text mb-auto" id="symptoms_data"></p>
+          <a href="#" class="stretched-link">Continue reading</a>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <img src="https://cdn-icons-png.flaticon.com/512/628/628528.png" alt="..." class="img-responsive" style="width: 200; height: 250;" preserveAspectRatio="xMidYMid slice">
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6" id="management">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-success">Management</strong>
+          <p class="mb-auto" id="management_data"></p>
+          <a href="#" class="stretched-link">Continue reading</a>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+            <img src="https://cdn-icons-png.flaticon.com/512/2139/2139551.png" alt="..." class="img-responsive" style="width: 200; height: 250;" preserveAspectRatio="xMidYMid slice">
+
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+</main>
+
+<!-- <center>
 <br><h2>Plant Disease Diagnosis</h2><br>
 
     <form id="upload-file" method="post" enctype="multipart/form-data">
@@ -25,5 +76,5 @@
     </h3>
 
 
-</center><br><br>
+</center><br><br> -->
 {% endblock %}

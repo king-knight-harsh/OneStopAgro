@@ -1,6 +1,6 @@
 class_map = {
   "Potato___Early_blight": {
-                        "symptoms":"The first symptoms of early blight appear as small, circular or irregular, dark-brown to black spots on the older leaves. These spots enlarge up to 3/8 inch in diameter and gradually may become angular-shaped. Early blight lesions initially appear as small, circular to irregular dark-brown spots on older...",
+                        "symptoms":"The first symptoms of early blight appear as small, circular or irregular, dark-brown to black spots on the older leaves. These spots enlarge up to 3/8 inch in diameter and gradually may become angular-shaped.",
                         "management": "Early blight can be minimized by maintaining optimum growing conditions, including proper fertilization, irrigation, and management of other pests. ",
                         "video" : "https://www.youtube.com/watch?v=HY9t0pMry9Q"
                         },

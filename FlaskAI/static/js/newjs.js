@@ -3,6 +3,10 @@ $(document).ready(function () {
     $('.image-section').hide();
     $('.loader').hide();
     $('#result').hide();
+    $('#management').hide();
+    $('#symptoms').hide();
+    $('#disease').hide();
+    
     function readURL(input) {
         if (input.files && input.files[0]) {
             var reader = new FileReader();
@@ -15,10 +19,11 @@ $(document).ready(function () {
     $("#imageUpload").change(function () {
         $('.image-section').show();
         $('#btn-predict').show();
-        $('#result').text('');
-        $('#result').hide();
-        // $('#symptoms').text('');
-        // $('#symptoms').hide();
+        $('#symptoms').hide();
+        $('#symptoms_data').hide();
+        $('#management').hide();
+        $('#management_data').hide();
+        $('#disease').hide();
         readURL(this);
     });
     // Predict
@@ -42,10 +47,17 @@ $(document).ready(function () {
                 // Get and display the result
                 $('.loader').hide();
                 console.log(data)
-                // $('#result').fadeIn(600);
-                $('#result').text('Detected :' + data.res_data.disease);
-                // $('#symptoms').fadeIn(600);
-                // $('#symptoms').text(' Symptoms:  ' + data.res_data.symptoms);
+
+                $('#disease').fadeIn(300);
+                $('#disease').text("Predection:  " + data.res_data.disease);
+
+                $('#management').fadeIn(300);
+                $('#management_data').fadeIn(300);
+                $('#management_data').text(data.res_data.management);
+
+                $('#symptoms').fadeIn(300);
+                $('#symptoms_data').fadeIn(300);
+                $('#symptoms_data').text(data.res_data.symptoms);
                 console.log('Success!');
             },
         });
