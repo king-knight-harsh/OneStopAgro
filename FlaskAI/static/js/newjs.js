@@ -6,6 +6,8 @@ $(document).ready(function () {
     $('#management').hide();
     $('#symptoms').hide();
     $('#disease').hide();
+    $('#video').hide();
+    $('#video_data').hide();
     
     function readURL(input) {
         if (input.files && input.files[0]) {
@@ -24,6 +26,8 @@ $(document).ready(function () {
         $('#management').hide();
         $('#management_data').hide();
         $('#disease').hide();
+        $('#video').hide();
+        $('#video_data').hide();
         readURL(this);
     });
     // Predict
@@ -59,6 +63,8 @@ $(document).ready(function () {
                 $('#symptoms_data').fadeIn(300);
                 $('#symptoms_data').text(data.res_data.symptoms);
                 console.log('Success!');
+
+                
             },
         });
     });
